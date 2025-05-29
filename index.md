@@ -1,8 +1,14 @@
 ---
 layout: default
+title: Maceda Portfolio
 ---
 
 # WIP - Index
+
+## Name
+Email | blah | blah
+
+\[Pretty resume goes here]
 
 ## Projects
 
