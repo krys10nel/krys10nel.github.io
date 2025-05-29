@@ -1,1 +1,0 @@
-# krys10nel.github.io
