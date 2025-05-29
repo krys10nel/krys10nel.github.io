@@ -11,4 +11,4 @@ gem "github-pages", group: :jekyll_plugins
 repository: krys10nel/krys10nel.github.io
 domain: krys10nel.github.io
 url: https://krys10nel.github.io
-baseurl: /krys10nel.github.io/
+baseurl: /
