@@ -6,3 +6,4 @@ ruby File.read(".ruby-version").strip
 # gem "jekyll", "~> 4.4.1"
 gem "github-pages", "~> 232", group: :jekyll_plugins
 gem "jekyll-theme-minimal", "~> 0.2.0"
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
